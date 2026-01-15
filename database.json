@@ -1,0 +1,8 @@
+{
+  "dev": {
+    "connectionString": "postgresql://neondb_owner:npg_Q4GSpaEK8XBl@ep-polished-wildflower-ahbmp8tq-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require",
+    "ssl": {
+      "rejectUnauthorized": false
+    }
+  }
+}
